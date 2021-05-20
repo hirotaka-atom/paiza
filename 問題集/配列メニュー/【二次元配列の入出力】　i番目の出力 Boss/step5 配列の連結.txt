@@ -1,0 +1,4 @@
+s=gets.chomp.split(" ").map(&:to_i)
+t=gets.chomp.split(" ")
+u=gets.chomp.split(" ")
+puts t+u
