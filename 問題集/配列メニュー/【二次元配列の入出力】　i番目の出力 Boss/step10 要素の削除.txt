@@ -1,0 +1,11 @@
+s=gets.chomp.split(" ").map(&:to_i)
+t=gets.chomp.split(" ")
+a=[]
+i=0
+while i<s[0]
+    if i!=s[1]-1
+        a.push(t[i])
+    end
+    i+=1    
+end
+puts a
