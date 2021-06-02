@@ -1,0 +1,2 @@
+s=["eight", "one", "three", "paiza", "pa13", 813]
+puts s

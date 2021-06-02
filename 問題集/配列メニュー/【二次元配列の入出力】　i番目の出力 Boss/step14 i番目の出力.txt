@@ -1,0 +1,2 @@
+s=["good", "morning", "paiza", 813, "pa13"]
+puts s[2]
