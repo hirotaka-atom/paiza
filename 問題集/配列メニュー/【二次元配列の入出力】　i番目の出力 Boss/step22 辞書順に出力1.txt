@@ -1,0 +1,2 @@
+s=["zaipa", "izapa", "paiza"]
+puts s.sort
